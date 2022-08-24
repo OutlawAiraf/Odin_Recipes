@@ -1,0 +1,26 @@
+body{
+
+    background-color: grey;
+}
+
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header{
+
+    color: orange;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+}
+
+.text{
+
+    color: lightcyan;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    align-content: center;
+}

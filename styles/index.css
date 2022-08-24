@@ -1,0 +1,21 @@
+body{
+
+    background-color: grey;
+}
+
+.header{
+
+    color: orange;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+}
+
+div{
+
+    color: orange;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    align-content: center;
+}
